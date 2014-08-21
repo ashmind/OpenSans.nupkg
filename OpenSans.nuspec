@@ -5,7 +5,7 @@
     <version>1.0.0</version>
     <authors>Steve Matteson (http://www.monotype.com/studio/steve-matteson)</authors>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
-    <projectUrl>http://github.com/ashmind</projectUrl>
+    <projectUrl>http://github.com/ashmind/OpenSans.nupkg</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>This is a NuGet package for font 'Open Sans'.  
     The font is installed into /fonts/OpenSans folder.
