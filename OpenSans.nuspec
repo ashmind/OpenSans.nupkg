@@ -2,6 +2,7 @@
 <package >
   <metadata>
     <id>OpenSans</id>
+    <title>Open Sans (Font)</title>
     <version>1.0.0</version>
     <authors>Steve Matteson (http://www.monotype.com/studio/steve-matteson)</authors>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
