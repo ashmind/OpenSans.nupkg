@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OpenSans</id>
+    <version>1.0.0</version>
+    <authors>Steve Matteson (http://www.monotype.com/studio/steve-matteson)</authors>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://github.com/ashmind</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a NuGet package for font 'Open Sans'.  
+    The font is installed into /fonts/OpenSans folder.
+        
+    The package includes web.config transform to add proper woff mime map.
+    
+    The package does not include any CSS.</description>
+    <tags>font</tags>
+  </metadata>
+</package>
